@@ -22,7 +22,7 @@ I am a web developer and UI/UX designer. I love code, design, and illustrations.
 <img align="center" src="./assets/linkedin-icon-2.svg" alt="https://linkedin.com/in/berkaymsert/" height="32" width="32" />
 </a>
 
-<a href="https://instagram.com/https://www.instagram.com/berkaysert.h" target="blank">
+<a href="https://instagram.com/berkaysert.h" target="blank">
 <img style="margin-left: 8px" align="center" src="./assets/instagram.svg" alt="https://www.instagram.com/berkaysert.h" height="32" width="32" />
 </a>
 
