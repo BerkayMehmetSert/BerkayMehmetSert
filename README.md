@@ -88,3 +88,11 @@ I am a web developer and UI/UX designer. I love code, design, and illustrations.
 </a> 
 
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/BerkayMSert"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BerkayMSert" />
+</a>
+</p>
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/BerkayMSert)
