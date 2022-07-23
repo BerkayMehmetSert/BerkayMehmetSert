@@ -10,7 +10,7 @@ I am a web developer and UI/UX designer. I love code, design, and illustrations.
 
 - 🌱 I’m currently learning **React Native and Node.js**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.figma.com/@BerkayMSert)
+- 👨‍💻 All of my projects are available at [my portfolio](https://berkaymehmetsert.vercel.app/projects)
 
 - 💬 Ask me about **HTML, CSS, React.js and Web design**
 
