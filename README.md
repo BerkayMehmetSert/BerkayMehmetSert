@@ -8,7 +8,7 @@ I am a web developer and UI/UX designer. I love code, design, and illustrations.
 </p>
 <h3>About me:</h3> 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and SQL**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://berkaymehmetsert.vercel.app/projects)
 
