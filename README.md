@@ -8,11 +8,11 @@ I am a Full Stack Developer and UI/UX designer. I love code, design, and illustr
 </p>
 <h3>About me:</h3> 
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 I’m currently learning **Python and Selenium**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://berkaymehmetsert.vercel.app/projects)
 
-- 💬 Ask me about **HTML, CSS, React.js and Web design**
+- 💬 Ask me about **back-end technologies and front-end technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@ I am a Full Stack Developer and UI/UX designer. I love code, design, and illustr
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Front-end Languages:</h3>
 
 <p align="left"> 
 
@@ -52,23 +52,43 @@ I am a Full Stack Developer and UI/UX designer. I love code, design, and illustr
 </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img style="margin-left: 8px" src="./assets/react.svg" alt="React.js" width="42" height="42"/> 
-</a> 
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-<img style="margin-left: 8px" src="./assets/redux.svg" alt="Redux" width="42" height="42"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img style="margin-left: 8px" src="./assets/tailwind.svg" alt="Tailwind CSS" width="42" height="42"/> 
-</a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img style="margin-left: 8px" src="./assets/bootstrap.svg" alt="Bootstrap" width="42" height="42"/> 
-</a> 
+</a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img style="margin-left: 8px" src="./assets/sass.svg" alt="SASS" width="42" height="42"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img style="margin-left: 8px" src="./assets/git.svg" alt="GIT" width="42" height="42"/> 
-</a> 
+</a>
+</p>
 
+<h3 align="left">Back-end Languages:</h3>
+
+<p align="left"> 
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+<img style="margin-left: 8px" src="./assets/java-14.svg" alt="Java" width="42" height="42"/> 
+</a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img style="margin-left: 8px" src="./assets/spring-3.svg" alt="Spring Boot" width="42" height="42"/> 
+</a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+<img style="margin-left: 8px" src="./assets/c--4.svg" alt="C#" width="42" height="42"/> 
+</a> 
+<a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> 
+<img style="margin-left: 8px" src="./assets/dot-net-core-7.svg" alt=".Net Core" width="42" height="42"/> 
+</a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img style="margin-left: 8px" src="./assets/docker.svg" alt="Docker" width="42" height="42"/> 
+</a>
+</p>
+
+<h3 align="left">Database:</h3>
+
+<p align="left"> 
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+<img src="./assets/postgresql.svg" alt="Postgres" width="42" height="42"/> 
+</a>
 </p>
 
 <h3 align="left">Design Tools:</h3>
