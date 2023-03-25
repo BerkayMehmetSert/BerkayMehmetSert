@@ -109,6 +109,12 @@ I am a Full Stack Developer and UI/UX designer. I love code, design, and illustr
 
 </p>
 
+<h3 align="left">My GitHub Stats:</h3>
+
+<a href="https://github.com/BerkayMehmetSert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayMehmetSert&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/BerkayMSert"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BerkayMSert" />
