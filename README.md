@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-I am a Full Stack Developer and UI/UX designer. I love code, design, and illustrations. Programmer by profession, developer for passion.
+I am a Backend Developer and UI/UX designer. I love code, design, and illustrations. Programmer by profession, developer for passion.
 </p>
 <h3>About me:</h3> 
 
